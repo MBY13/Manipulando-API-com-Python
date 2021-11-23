@@ -1,8 +1,3 @@
-#João Vitor Fermiano Pinto - Matheus Branco Bayer - William Gabriel Karvat
-
-#pip install numpy
-#pip install requests
-
 import os.path
 from numpy import savetxt
 from pokeApi import PokemonAPI
